@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [Eric] 👋
 
-![Profile views](https://gpvc.arturio.dev/[erictossell])
+![Profile views](https://gpvc.arturio.dev/erictossell)
 
 I'm a diligent integration specialist with 4 years of experience in IT. I'm passionate about code, computing, and customized terminals. 
 
