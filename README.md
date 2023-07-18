@@ -1,16 +1,47 @@
-### Hi there 👋
+# 👋 Hi there, I'm [Eric] 👋
 
-<!--
-**erictossell/erictossell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/[erictossell])
 
-Here are some ideas to get you started:
+I'm a [integration specialist] with 4 years of experience in [IT]. I'm passionate about [code, computing, and customized terminals]. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Skills
+
+### Languages
+
+- [Python]
+- [SQL]
+- [Javascript]
+
+
+### Frameworks
+
+- [Django]
+- [Flask]
+- [FastAPI]
+- [React]
+- [Materual UI]
+
+### Tools / Platforms
+
+- [Powershell/Windows]
+- [Bash/Linux]
+
+## 🌱 I’m currently learning 
+
+- [Go]
+
+## 📫 How to reach me 
+
+- LinkedIn: [LinkedIn](https://linkedin.com/in/erictossell)
+- Email: [Email](mailto:eric@tossell.ca)
+
+## 📈 Github Stats 
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=erictossell&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erictossell&layout=compact&theme=radical)
+
+## 🎉 Fun Fact 
+
+- I'm a big aviation nerd and if I'm not writing code you might find me on MSFS2020 or MSFS2024 ✈️
+
+
