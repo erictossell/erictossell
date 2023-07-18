@@ -2,33 +2,35 @@
 
 ![Profile views](https://gpvc.arturio.dev/[erictossell])
 
-I'm a [integration specialist] with 4 years of experience in [IT]. I'm passionate about [code, computing, and customized terminals]. 
+I'm a diligent integration specialist with 4 years of experience in IT. I'm passionate about code, computing, and customized terminals. 
 
 ## 🛠️ My Skills
 
 ### Languages
 
-- [Python]
-- [SQL]
-- [Javascript]
+- Python
+- SQL
+- Javascript
 
 
 ### Frameworks
 
-- [Django]
-- [Flask]
-- [FastAPI]
-- [React]
-- [Materual UI]
+- Django
+- Flask
+- FastAPI
+- React
+- Materual UI
+- SPFx
+- PowerPlatform
 
 ### Tools / Platforms
 
-- [Powershell/Windows]
-- [Bash/Linux]
+- Powershell/Windows
+- Bash/Linux
 
 ## 🌱 I’m currently learning 
 
-- [Go]
+- Go
 
 ## 📫 How to reach me 
 
