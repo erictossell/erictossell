@@ -1,8 +1,13 @@
 # 👋 Hi there, I'm [Eric] 👋
 
-![Profile views](https://gpvc.arturio.dev/erictossell)
 
 I'm a diligent integration specialist with 4 years of experience in IT. I'm passionate about code, computing, and customized terminals. 
+
+## 📈 Github Stats 
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=erictossell&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erictossell&layout=compact&theme=radical)
 
 ## 🛠️ My Skills
 
@@ -37,10 +42,7 @@ I'm a diligent integration specialist with 4 years of experience in IT. I'm pass
 - LinkedIn: [LinkedIn](https://linkedin.com/in/erictossell)
 - Email: [Email](mailto:eric@tossell.ca)
 
-## 📈 Github Stats 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=erictossell&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erictossell&layout=compact&theme=radical)
 
 ## 🎉 Fun Fact 
 
