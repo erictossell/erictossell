@@ -15,3 +15,4 @@ I'm passionate about code, computing, and devops.
 - LinkedIn: [LinkedIn](https://linkedin.com/in/eric-tossell)
 - Email: [Email](mailto:eric@tossell.ca)
 
+[![Update README](https://github.com/erictossell/erictossell/actions/workflows/readme.yml/badge.svg)](https://github.com/erictossell/erictossell/actions/workflows/readme.yml)
