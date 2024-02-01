@@ -4,7 +4,7 @@ Hi I'm Eric!
 
 I'm a diligent integration specialist with 4 years of experience in IT.
 
-I'm passionate about code, computing, and customized terminals. 
+I'm passionate about code, computing, and devops. 
 
 [Checkout my Docs Repo](https://docs.eriim.dev/)
 
