@@ -4,7 +4,7 @@ Hi I'm Eric!
 
 I'm a diligent integration specialist with 4 years of experience in IT.
 
-I'm passionate about code, computing, and Raspberry Pis. 
+I'm passionate about code, computing, and automation. 
 
 ![Eriim's Github Stats](https://github-readme-stats.vercel.app/api?username=erictossell&show_icons=true&theme=transparent)
 
